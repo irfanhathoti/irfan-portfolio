@@ -61,8 +61,8 @@ export const personal = {
   location: "Bengaluru, India",
   email: "irfanhathoti@gmail.com",
   phone: "+91 7337630454",
-  github: "#",
-  linkedin: "#",
+  github: "https://github.com/irfanhathoti",
+  linkedin: "https://www.linkedin.com/in/irfan-h-0390b5218",
   resume: "/resume.pdf",
   tagline:
     "I build modern web applications, AI-powered tools, and scalable full-stack products.",
@@ -121,8 +121,10 @@ export const skillGroups: SkillGroup[] = [
       "Firebase Storage",
       "MongoDB",
       "Neo4j",
+      "SQL",
       "Learning PostgreSQL",
-      "Learning Redis",
+      // "Learning Redis",
+      "Learning Python",
     ],
   },
   {
