@@ -60,7 +60,7 @@ export default function Contact() {
       <div className="grid gap-8 lg:grid-cols-5">
         {/* Contact cards */}
         <Reveal className="lg:col-span-2">
-          <div className="flex h-full flex-col gap-4">
+          <div className="flex h-full flex-col justify-between gap-4">
             {contactCards.map((card) => {
               const Icon = card.icon;
               const isEmail = card.label === "Email";
