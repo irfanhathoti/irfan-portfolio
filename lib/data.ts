@@ -254,7 +254,7 @@ export const projects: Project[] = [
       "PM2",
     ],
     links: [
-      { label: "Live Demo", href: "#" },
+      { label: "Live Demo", href: "https://app.flonautics.com" },
       { label: "GitHub", href: "#" },
     ],
   },
@@ -274,7 +274,7 @@ export const projects: Project[] = [
       "Vercel",
     ],
     links: [
-      { label: "Live Demo", href: "#" },
+      { label: "Live Demo", href: "https://ai-interview-platform-sand.vercel.app" },
       { label: "GitHub", href: "#" },
     ],
   },
